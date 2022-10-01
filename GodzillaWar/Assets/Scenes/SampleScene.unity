@@ -1316,7 +1316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 563624ed642f7bb4a8df96124788828f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2271,7 +2271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1131708264}
   enemy: {fileID: 1865652804}
-  offset: {x: 0, y: 4, z: 0}
+  offset: {x: 0, y: 4.3, z: 0}
   centerObj: {fileID: 1869079275}
 --- !u!1 &1093021679
 GameObject:
@@ -2394,7 +2394,7 @@ MonoBehaviour:
   anim: {fileID: 0}
   rigidBody: {fileID: 0}
   speed: 10
-  speedRot: 1
+  speedRot: 2
   speedMove: 5
   particle: {fileID: 405624180}
   hitClips:
@@ -5249,7 +5249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 8b485ede78ced6040923696844976ad5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
